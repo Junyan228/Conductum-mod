@@ -1,0 +1,6 @@
+health: 1050
+category: defense
+requirements: [
+    conductum: 7
+]
+research: surge-wall

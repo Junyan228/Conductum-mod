@@ -1,0 +1,5 @@
+//costは建築時間を決める(1につき0.1秒)
+cost: 1.3
+color: e82121
+research: thorium
+charge: 2.5

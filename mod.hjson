@@ -1,0 +1,20 @@
+name: "conductum-mod"
+displayName: "Conductum Mod"
+author: junyan
+description: 
+'''
+──"Conductum/コンダクタム"──
+This is a name of the superconducting crystal we found recently.
+これは我々が近年発見した超電導結晶の名だ。
+We figured out the fact Conductum is the awsome and valuable material.
+我々はコンダクタムがとても素晴らしく、有用性のある素材だということを突き止めた。
+Conductum extremely improved our thecnology. 
+コンダクタムは我々の技術を大いに向上させた。
+We were looking for the material like that.
+我々はこのような素材を探し求めていた。
+Conductum was "The ideal material".
+コンダクタムは「理想の素材」だったのだ。
+'''
+version: 1.0
+minGameVersion: "146"
+hidden: false
