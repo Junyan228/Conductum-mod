@@ -4,3 +4,4 @@ requirements: [
     conductum/28
 ]
 research: conductum-wall
+size: 2
