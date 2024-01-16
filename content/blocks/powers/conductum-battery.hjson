@@ -12,3 +12,5 @@ requirements:[
     silicon/20
 ]
 research: battery-large
+emptyLightColor: c25a5f
+fullLightColor: ffaae4
