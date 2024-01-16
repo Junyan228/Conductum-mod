@@ -1,4 +1,4 @@
-type: battery
+type: Battery
 size: 2
 health: 920
 consumes:{
