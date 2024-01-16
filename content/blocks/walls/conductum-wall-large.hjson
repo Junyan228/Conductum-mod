@@ -7,5 +7,5 @@ research: conductum-wall
 size: 2
 type: Wall
 lightningChance: 0.1
-LightningDamage: 50
+LightningDamage: 400
 absorbLasers: true
