@@ -7,6 +7,6 @@ research: surge-wall
 size: 1
 type: Wall
 lightningChance: 0.1
-//ダメージは数値の0.4倍
-lightningDamage: 400
+//ダメージは数値の通り
+lightningDamage: 100
 absorbLasers: true
