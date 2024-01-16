@@ -1,6 +1,6 @@
 health: 4200
 category: defense
 requirements: [
-    conductum: 28
+    conductum/28
 ]
 research: conductum-wall
