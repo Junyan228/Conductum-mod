@@ -6,3 +6,6 @@ requirements: [
 research: surge-wall
 size: 1
 type: Wall
+lightningChance: 0.1
+LightningDamage: 50
+absorbLasers: true
