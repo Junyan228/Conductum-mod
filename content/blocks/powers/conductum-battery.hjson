@@ -1,0 +1,12 @@
+type: battery
+size: 2
+health: 920
+powerCapacity: 100000
+category: power
+requirements:[
+    conductum/50
+    lead/25
+    titanium/20
+    silicon/20
+]
+research: battery-large

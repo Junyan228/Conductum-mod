@@ -10,3 +10,4 @@ lightningChance: 0.1
 //ダメージは数値の通り
 lightningDamage: 100
 absorbLasers: true
+//フェーズみたくするにはchanceDeflectを使う
