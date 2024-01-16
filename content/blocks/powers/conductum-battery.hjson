@@ -1,7 +1,9 @@
 type: battery
 size: 2
 health: 920
-powerCapacity: 100000
+consumes:{
+    powerBuffered: 100000
+}
 category: power
 requirements:[
     conductum/50
