@@ -5,3 +5,4 @@ requirements: [
 ]
 research: surge-wall
 size: 1
+type: Wall
