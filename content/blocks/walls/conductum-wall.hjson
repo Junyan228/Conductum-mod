@@ -8,5 +8,5 @@ size: 1
 type: Wall
 lightningChance: 0.1
 //ダメージは数値の0.4倍
-LightningDamage: 400
+lightningDamage: 400
 absorbLasers: true
