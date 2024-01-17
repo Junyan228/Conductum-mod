@@ -18,12 +18,12 @@ consumes: {
 }
 size: 3
 requirements:[
-    conductum: 120
-    titanium: 150
-    surge-alloy: 40
-    plastanium: 40
-    silicon:50
-    thorium:70
+    conductum/120
+    titanium/150
+    surge-alloy/40
+    plastanium/40
+    silicon/50
+    thorium/70
 ]
 heatColor: ffaae4
 shootSound: pulseBlast
