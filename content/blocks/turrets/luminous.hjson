@@ -26,19 +26,19 @@ requirements:[
     thorium/70
 ]
 heatColor: ffaae4
-shootSound: pulseBlast
+shootSound: "pulseBlast"
 rotateSpeed: 3
 hasPower: true
 shootType: {
     type: sharpnelBulletType
     //これで弾丸がヒューズみたくなる
     lifeTime: 20
-    sprite: luminous-fire
+    sprite: "luminous-fire"
     absorbable: true
     shrinkX: 0.3
     shrinkY: 0.3
     speed: 4
     pierce: false
     damage: 150
-    hitEffect: hitMeltdown
+    hitEffect: "hitMeltdown"
 }
