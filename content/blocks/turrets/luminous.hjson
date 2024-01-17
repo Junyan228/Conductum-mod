@@ -1,0 +1,44 @@
+type: PowerTurret
+range: 200
+shootCone: 0
+targetAir: true
+targetGround: true
+liquidCapacity: 20
+category: turret
+//reloadは60が1/sになる
+reload: 60
+recoil: 8
+consumes: {
+    //powerは1で60
+    power:10
+    coolant: {
+        amount: 0.75
+        //1で60
+    }
+}
+size: 3
+requirements:[
+    conductum: 120
+    titanium: 150
+    surge-alloy: 40
+    plastanium: 40
+    silicon:50
+    thorium:70
+]
+heatColor: ffaae4
+shootSound: pulseBlast
+rotateSpeed: 3
+hasPower: true
+shootType: {
+    type: sharpnelBulletType
+    //これで弾丸がヒューズみたくなる
+    lifeTime: 20
+    sprite: luminous-fire
+    absorbable: true
+    shrinkX: 0.3
+    shrinkY: 0.3
+    speed: 4
+    pierce: false
+    damage: 150
+    hitEffect: hitMeltdown
+}
