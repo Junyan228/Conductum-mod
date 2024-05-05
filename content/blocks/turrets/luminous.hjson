@@ -33,12 +33,15 @@ shootType: {
     type: sharpnelBulletType
     //これで弾丸がヒューズみたくなる
     lifeTime: 20
-    sprite: "luminous-fire"
+    fromColor: ffceef
+    toColor: 703437
+    length: 230
+    width: 50
     absorbable: true
     shrinkX: 0.3
     shrinkY: 0.3
     speed: 4
-    pierce: false
+    pierce: true
     damage: 150
     hitEffect: "hitMeltdown"
 }
