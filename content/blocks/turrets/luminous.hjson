@@ -6,7 +6,7 @@ targetGround: true
 liquidCapacity: 20
 category: turret
 //reloadは60が1/sになる
-reload: 60
+reload: 3
 recoil: 8
 consumes: {
     //powerは1で60
